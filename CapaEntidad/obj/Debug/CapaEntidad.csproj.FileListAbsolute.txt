@@ -1,0 +1,12 @@
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.pdb

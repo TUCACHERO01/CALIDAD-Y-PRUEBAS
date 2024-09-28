@@ -1,0 +1,91 @@
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\CapaEntidad.dll
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\ClosedXML.dll
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\ClosedXML.pdb
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\ClosedXML.xml
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\itextsharp.dll
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\itextsharp.xml
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdAcercade.resources
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteCompras.resources
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteVentas.resources
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\CapaEntidad.dll
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\ClosedXML.dll
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\itextsharp.dll
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\ClosedXML.pdb
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\ClosedXML.xml
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\itextsharp.xml
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteCompras.resources
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteVentas.resources
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdAcercade.resources
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

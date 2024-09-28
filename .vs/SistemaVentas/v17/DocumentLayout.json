@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RENZO\\OCTAVO CICLO\\CALIDAD\\PROYECTO FINAL\\SistemaVentas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99AC272F-FDB7-4533-8C09-9AD7BF29ED10}|CapaPresentacion\\CapaPresentacion.csproj|d:\\renzo\\octavo ciclo\\calidad\\proyecto final\\sistemaventas\\capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{99AC272F-FDB7-4533-8C09-9AD7BF29ED10}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7315E5D4-B9D8-4F61-BBB5-F8C12D1D36DA}|CapaDatos\\CapaDatos.csproj|d:\\renzo\\octavo ciclo\\calidad\\proyecto final\\sistemaventas\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7315E5D4-B9D8-4F61-BBB5-F8C12D1D36DA}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99AC272F-FDB7-4533-8C09-9AD7BF29ED10}|CapaPresentacion\\CapaPresentacion.csproj|D:\\RENZO\\OCTAVO CICLO\\CALIDAD\\PROYECTO FINAL\\SistemaVentas\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99AC272F-FDB7-4533-8C09-9AD7BF29ED10}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99AC272F-FDB7-4533-8C09-9AD7BF29ED10}|CapaPresentacion\\CapaPresentacion.csproj|d:\\renzo\\octavo ciclo\\calidad\\proyecto final\\sistemaventas\\capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99AC272F-FDB7-4533-8C09-9AD7BF29ED10}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99AC272F-FDB7-4533-8C09-9AD7BF29ED10}|CapaPresentacion\\CapaPresentacion.csproj|D:\\RENZO\\OCTAVO CICLO\\CALIDAD\\PROYECTO FINAL\\SistemaVentas\\capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99AC272F-FDB7-4533-8C09-9AD7BF29ED10}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7315E5D4-B9D8-4F61-BBB5-F8C12D1D36DA}|CapaDatos\\CapaDatos.csproj|D:\\RENZO\\OCTAVO CICLO\\CALIDAD\\PROYECTO FINAL\\SistemaVentas\\capadatos\\cd_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7315E5D4-B9D8-4F61-BBB5-F8C12D1D36DA}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99AC272F-FDB7-4533-8C09-9AD7BF29ED10}|CapaPresentacion\\CapaPresentacion.csproj|D:\\RENZO\\OCTAVO CICLO\\CALIDAD\\PROYECTO FINAL\\SistemaVentas\\capapresentacion\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{99AC272F-FDB7-4533-8C09-9AD7BF29ED10}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99AC272F-FDB7-4533-8C09-9AD7BF29ED10}|CapaPresentacion\\CapaPresentacion.csproj|D:\\RENZO\\OCTAVO CICLO\\CALIDAD\\PROYECTO FINAL\\SistemaVentas\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99AC272F-FDB7-4533-8C09-9AD7BF29ED10}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\RENZO\\OCTAVO CICLO\\CALIDAD\\PROYECTO FINAL\\SistemaVentas\\CapaPresentacion\\Inicio.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
+              "ToolTip": "D:\\RENZO\\OCTAVO CICLO\\CALIDAD\\PROYECTO FINAL\\SistemaVentas\\CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T00:40:53.224Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\RENZO\\OCTAVO CICLO\\CALIDAD\\PROYECTO FINAL\\SistemaVentas\\CapaPresentacion\\App.config",
+              "RelativeDocumentMoniker": "CapaPresentacion\\App.config",
+              "ToolTip": "D:\\RENZO\\OCTAVO CICLO\\CALIDAD\\PROYECTO FINAL\\SistemaVentas\\CapaPresentacion\\App.config",
+              "RelativeToolTip": "CapaPresentacion\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-28T17:03:49.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "D:\\RENZO\\OCTAVO CICLO\\CALIDAD\\PROYECTO FINAL\\SistemaVentas\\CapaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Conexion.cs",
+              "ToolTip": "D:\\RENZO\\OCTAVO CICLO\\CALIDAD\\PROYECTO FINAL\\SistemaVentas\\CapaDatos\\Conexion.cs",
+              "RelativeToolTip": "CapaDatos\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:02:48.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\RENZO\\OCTAVO CICLO\\CALIDAD\\PROYECTO FINAL\\SistemaVentas\\CapaPresentacion\\Login.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Login.cs",
+              "ToolTip": "D:\\RENZO\\OCTAVO CICLO\\CALIDAD\\PROYECTO FINAL\\SistemaVentas\\CapaPresentacion\\Login.cs",
+              "RelativeToolTip": "CapaPresentacion\\Login.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIAwwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T00:42:39.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\RENZO\\OCTAVO CICLO\\CALIDAD\\PROYECTO FINAL\\SistemaVentas\\CapaPresentacion\\Login.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Login.cs",
+              "ToolTip": "D:\\RENZO\\OCTAVO CICLO\\CALIDAD\\PROYECTO FINAL\\SistemaVentas\\CapaPresentacion\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T00:40:50.972Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\RENZO\\OCTAVO CICLO\\CALIDAD\\PROYECTO FINAL\\SistemaVentas\\CapaPresentacion\\packages.config",
+              "RelativeDocumentMoniker": "CapaPresentacion\\packages.config",
+              "ToolTip": "D:\\RENZO\\OCTAVO CICLO\\CALIDAD\\PROYECTO FINAL\\SistemaVentas\\CapaPresentacion\\packages.config",
+              "RelativeToolTip": "CapaPresentacion\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-28T00:40:48.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\RENZO\\OCTAVO CICLO\\CALIDAD\\PROYECTO FINAL\\SistemaVentas\\CapaPresentacion\\Program.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Program.cs",
+              "ToolTip": "D:\\RENZO\\OCTAVO CICLO\\CALIDAD\\PROYECTO FINAL\\SistemaVentas\\CapaPresentacion\\Program.cs",
+              "RelativeToolTip": "CapaPresentacion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T00:40:45.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CD_Venta.cs",
+              "DocumentMoniker": "D:\\RENZO\\OCTAVO CICLO\\CALIDAD\\PROYECTO FINAL\\SistemaVentas\\CapaDatos\\CD_Venta.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Venta.cs",
+              "ToolTip": "D:\\RENZO\\OCTAVO CICLO\\CALIDAD\\PROYECTO FINAL\\SistemaVentas\\CapaDatos\\CD_Venta.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Venta.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T00:32:55.91Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

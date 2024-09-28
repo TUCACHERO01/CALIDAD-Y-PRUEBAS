@@ -1,0 +1,18 @@
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaDatos\bin\Debug\CapaDatos.dll
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.dll
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaDatos\bin\Debug\CapaDatos.dll
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.dll
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.pdb

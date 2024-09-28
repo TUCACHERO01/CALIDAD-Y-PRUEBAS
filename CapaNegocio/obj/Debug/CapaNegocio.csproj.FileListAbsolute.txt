@@ -1,0 +1,22 @@
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\UPN\2024-2\CALIDAD Y PRUEBAS DE SOFTWARE\PROYECTO FINAL\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\RENZO\OCTAVO CICLO\CALIDAD\PROYECTO FINAL\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.pdb
